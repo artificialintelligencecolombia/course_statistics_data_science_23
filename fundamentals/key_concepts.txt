@@ -1,0 +1,66 @@
+==============================
+STATISTICS FUNDAMENTALS
+==============================
+
+---------------------
+Why Statistics
+---------------------
+
+Definition: science for interpretation of data. It gives us answers from data
+collected.
+
+---------------------
+Tables
+---------------------
+
+Variables -> columns
+Records -> rows
+
+---------------------
+Column Types (Variable Types)
+---------------------
+
+Data is typically classified in software by type.
+
+CUALITATIVES:
+- Nominal: for classifying (colors, names, brands, countries, etc)
+- Ordinal: for hierarchy classifying (rantings, levels, steps, temp, etc)
+
+CUANTITATIVES:
+- Discretes: exact numbers for counting
+- Continues: decimal numbers for measuring.
+
+BOOLEAN:
+- Binary: only takes 2 values (0,1).
+
+---------------------
+Benefits of data classification
+---------------------
+
+- Optimized storage and indexing.
+- Better statistical procedures.
+
+---------------------
+Measurement Levels
+---------------------
+
+1. Nominal: not specified order or ranking. Its related to the labels or names.
+At this level, we can count frequency, not more.
+
+2. Ordinal: categorized data + logical order (unsatisfied, neutral, satisfied,
+very satisfied, for example). The gap between levels isnt necessarily the same.
+
+3. Interval: equal units, yet not proportional. Zero is a value but not the 
+absence of the variable. (20 C is not the double hotter than 10 C. 0 C is not 
+absence of temperature).
+
+4. Ratio: data categorized + logical order + equal units + there's a zero point.
+(kgs, money, etc).
+
+---------------------
+Software
+---------------------
+
+- Excel
+- Python, R
+- Power BI, Tableau, Matlab

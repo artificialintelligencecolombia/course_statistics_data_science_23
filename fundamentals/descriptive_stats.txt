@@ -1,0 +1,23 @@
+==============================
+DISTRIBUTIONS
+==============================
+
+---------------------
+Distribuciones Conjuntas
+---------------------
+
+cómo se comporta una variable en relación a otra. Estas distribuciones
+son pensadas respecto a otra variable.
+
+---------------------
+Distribuciones Marginal
+---------------------
+
+Its the distribution of the dataset according to one variable.
+
+---------------------
+Distribuciones Condicional
+---------------------
+
+preguntas de una variable en relación con la segunda: relación entre
+dos variables.

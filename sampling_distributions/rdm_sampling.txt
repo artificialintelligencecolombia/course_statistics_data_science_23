@@ -1,0 +1,30 @@
+==============================
+SAMPLING
+==============================
+
+---------------------
+Sample
+---------------------
+
+Sample: A subset from a larger data set.
+Population: The larger data set or idea of a data set.
+
+---------------------
+Bias
+---------------------
+
+Bias refers to measurement or sampling errors.
+
+1. Random errors: unbiased sampling.
+2. Bias errors: shows a consistent and persistent deviation from the true
+value due to a systematic factor.
+
+BIAS error must to be minimized. Its a distortion.
+
+---------------------
+Random Sampling
+---------------------
+
+- Quality is more important than quantity.
+- Its the backbone for many sampling methods. We take random data.
+- The smaller the sample the better.
