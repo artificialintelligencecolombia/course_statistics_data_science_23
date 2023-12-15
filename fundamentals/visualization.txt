@@ -40,7 +40,7 @@ B:----------
 
 4. Pie Diagram: its circular
 
-5. Lines.
+5. Lines: this type is used for represent a value along a period of time.
 6. Ojiva: muesta el acumulado
 7. Histogram: its used for intervals. Its composed of bars.
 8. Venn Diagram.

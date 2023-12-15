@@ -1,0 +1,16 @@
+==============================
+SAMPLING DISTRIBUTION OF A STATISTIC
+==============================
+
+- Sample statistic: Metric calculated from a sample from a larger population.
+- Sampling distribution's onterested in how different samples are from each other.
+
+
+Measure|Standard Deviation|Standard Error
+Variability|Within a sample|Between samples
+Width Definition|Distribution of individual values|Sampling distribution
+Assessment|Data values and sample mean|Sample statistics and population parameter (i.e., accuracy)
+Sample Size Effect|No tendency to change|A tendency to decrease
+
+tandard errors evaluate the precision of a sample’s estimate. Smaller SEs
+represent greater precision.
