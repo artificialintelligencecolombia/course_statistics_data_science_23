@@ -1,0 +1,69 @@
+==============================
+FORMULAS
+==============================
+
+---------------------
+How to insert a formula 
+---------------------
+
+1. Go to Formulas in menu.
+2. Select the formula to use.
+
+- SUM()
+- COUNT() - Count the range of records with numbers
+- COUNTA() - Counts non empty records
+- AVG() - Calculates the average of all the records
+- AVGA() - Calculates the average of all the records. EXCLUDES EMPTY RECORDS.
+- ROUND()
+
+---------------------
+Subtotal  
+---------------------
+
+If we filter a table, the SUM() always will keep the sum of all the records. No matter if we
+filter it. Thats why we use SUBTOTAL().
+
+Subtotal computes a operation of only the filtered records.
+
+- SUBTOTAL(Operation,column)
+Now if we filter a column, the SUBTOTAL() will operate with only filtered records. It dynamic.
+
+---------------------
+Date Formulas
+---------------------
+
+- DAY() - Extracts the day from a date 
+- MONTH() - Extracts the month 
+- YEAR() - Extracts the year 
+- WEEKDAY() - Provide the exact day of the week.
+- DATE(year,month,day) - Takes the columns: day, month, year and returns the full date.
+- TODAY() - Returns today's date.
+
+---------------------
+Text Formulas
+---------------------
+
+- PROPER() - Uppercases the initials of the name
+- TRIM() - Removes unnecesary spaces. Lefts the only space between words.
+- EXTRACT() - Extracts a slide of the characters in the row and copies it into another column.
+Now we have to copy the same selection and paste it into the same space. Then it will be formated.
+- TEXT() - Parses int to text. TEXT(ROW, "000") # Adds numbers composed of 3 digits.
+- CONCAT() | =row&¨-¨&row - Concatenates columns into one column.
+
+---------------------
+Random
+---------------------
+
+Outputs a random number.
+
+- RAND() - Returns a random number between 0 and 1
+- RANDBETWEEN() - Returns a random number between 2 int.
+For the seed, just copy and paste the resultant value into another row.
+
+---------------------
+Logic
+---------------------
+
+- ROW=ROW - Compares two numbers. If equal, returns true. If not equal, returns false
+- AND() - For mutiple and conditions.
+- OR() - For or conditionals.

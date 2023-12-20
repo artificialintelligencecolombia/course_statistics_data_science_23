@@ -1,0 +1,132 @@
+==============================
+EXCEL
+==============================
+
+---------------------
+Shortcuts
+---------------------
+
+- ctrl + <ARROWS>
+Move to next celd with content
+
+- ctrl + shift + <ARROWS>
+Move and select the content
+
+- ctrl + <SPACE>
+Select the entire COLUMN
+
+- shift + <SPACE>
+Select the entire ROW  
+
+- ctrl + Start 
+Goes directly to the start of the sheet.
+
+- ctrl + End  
+Goes directly to the last row of the sheet.
+
+- ctrl + <SPACE> + '+'/'-'
+Adds a new column. Removes the existing column.
+
+- alt
+Displays the shortcut of the main excel's menu
+
+---------------------
+Import data to Excel dataFrame
+---------------------
+
+Problem: we have a dataset in .csv format. The objective is to import the dataset
+to excel.
+
+1. Open blanck.
+2. Menu -> Data.
+3. Click on Get & TRANSDORM Data. It will display a menu. Options are:
+- .xslx - COMMON
+- .csv - COMMON 
+- .pdf
+- .json
+- .xml
+- sql server 
+- azure
+- tables
+- web
+- query.
+
+4. Select the format of the dataset (in this case is .csv format) and import the data.
+5. select the desired settings, then click in Transform data and after arrange the 
+loading process, click on load.
+6. the output is the Dataframe in excel sheet.
+
+---------------------
+Import data to Excel format
+---------------------
+
+1. Open blanck.
+2. Menu -> Data.
+3. Click on Get EXTERNAL Data. It will display a menu.
+4. In settings, we must select "Delimited" in the file type. File origin: UTF8
+5. Click in next.
+6.Delimiters = comma. click next.
+7. Next window is for formating each columns-. Windows already do this pretty efficiently.
+Click next.
+8. Finish. Click in the file we want to load the data, select the row. and click in load.
+9. The output is the data in excel format.
+10. SAVE AS: EXCEL. (Teacher's most preferred option).
+
+---------------------
+Range
+---------------------
+
+Its the name for a column of elements in the table. We can name each column by:
+1. Selecting the whole column: ctrl + shift + <DOWN>. Then name the selection and enter.
+2. for editing the ranges, go to Formulas, Defined names, Manage names.
+
+---------------------
+Hide/Show rows, columns, files.
+---------------------
+
+This is done by the conventional way (RIGHT CLICK -> HIDE)
+
+---------------------
+Group rows, columns, files.
+---------------------
+
+1. Select the rows/columns we want to group.
+2. In main menu go to Data -> scheme -> group.
+3. Now the desired columns/rows, are grouped.
+
+4. For de group, go to Data -> scheme -> deagroup.
+
+Note: we can subgroup.
+
+---------------------
+Tables
+---------------------
+
+For inserting a table:
+
+1. Select info.
+2. Insert -> Tables -> Table. Confirm the table's data (range). Add if it has headers.
+3. The format is ready, the headers has filters.
+
+---------------------
+Order
+---------------------
+
+1. Select the whole table.
+2. Data menu -> Order and filter section.
+
+---------------------
+Filters
+---------------------
+
+1. Select the data we want to filter (if its in range format).
+- shift + ctrl + L.
+
+---------------------
+Buscar y reemplazar
+---------------------
+
+1. ctrl + B. It will appear the search engine. type the value.
+2. We can search every row that contains the value. we can play with its settings.
+
+3. For replace, go to replace task. then if we want to replace something then do it in this space.
