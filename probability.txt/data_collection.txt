@@ -1,0 +1,29 @@
+==============================
+PROBABILITY
+==============================
+
+---------------------
+POBLACION/MUESTRA
+---------------------
+
+- Poblacion: el conjunto total de datos. (Parametros).
+- Muestra: Subgrupo representativo de la poblacion, seleccionado aleatoriamente.
+(Estadistico).
+
+---------------------
+DATA COLLECTION
+---------------------
+
+There are 2 types of studies according to the collection method:
+
+a. Estudio Observacional:
+- The sample is raw, not processed.
+- Data is collected in unidim or bidim. tables.
+
+b. Estudio Experimental:
+- The sample is processed.
+- We identify the biases of the sample and how does them affect the statistics.
+- The sampling must to be completely RANDOM!
+- There's a control group (blind: they dont know which one will get placebo.
+2xblind: there is a separation between placebo and experimental, but they
+don't know it.) and a study group.

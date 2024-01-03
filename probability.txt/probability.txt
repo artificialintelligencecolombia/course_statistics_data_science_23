@@ -1,0 +1,35 @@
+==============================
+PROBABILITY
+==============================
+
+Statistics:  branch of mathematics that involves collecting, analyzing, 
+interpreting, presenting, and organizing data.
+
+Probability: branch of mathematics that deals with the likelihood or chance of 
+events occurring. 
+
+---------------------
+SIMPLE PROBABILITY 
+---------------------
+
+P(A) = evento_favorable_A / Espacio_muestral (Total de resultados posibles)
+
+Example:
+- Cual es la probabilidad que, al tirar un dado, la cara que nos muestre sea 2:
+
+P(2) = 1 / 6
+
+KEY POINTS: 
+- Probability goes from 0 to 1.
+- In a simple probability, the events must have the same probability of
+    occurrence.
+
+---------------------
+EXPERIMENTAL PROBABILITY 
+---------------------
+
+P(A) = numero_veces_ocurre_A / Total_intentos
+
+- Sebasa en la observacion y medicion del evento sobre una muestra de intentos.
+- Its important to perform a considerable number of experiments for more  precise 
+results.

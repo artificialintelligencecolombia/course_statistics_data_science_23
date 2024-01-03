@@ -12,5 +12,5 @@ Width Definition|Distribution of individual values|Sampling distribution
 Assessment|Data values and sample mean|Sample statistics and population parameter (i.e., accuracy)
 Sample Size Effect|No tendency to change|A tendency to decrease
 
-tandard errors evaluate the precision of a sample’s estimate. Smaller SEs
+Standard errors evaluate the precision of a sample’s estimate. Smaller SEs
 represent greater precision.

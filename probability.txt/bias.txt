@@ -1,0 +1,27 @@
+==============================
+BIAS
+==============================
+
+In the sampling process, the idea is to avoid the BIAS so the sampling can be 
+completely random for the correct representation over the population.
+
+---------------------
+SAMPLING BIAS
+---------------------
+
+Its not an error, but a variation over the sampling than affects the population
+metrics.
+
+a. Sesgo de respuesta:
+- Error with the measurement tool.
+- Preguntas confusas, capciosas.
+- Preguntas no respondidas.
+
+b. Sesgo de infracobertura:
+- Sample does not represent the population.
+- We exclude samples from population.
+- We pick the sample.
+
+c. Sesgo de NO respuesta:
+- The sampling is well perfomed, but much percentage does not answers to the
+questions. So we have a lot of missing information.

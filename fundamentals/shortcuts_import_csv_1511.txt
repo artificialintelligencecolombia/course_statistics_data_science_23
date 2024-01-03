@@ -77,7 +77,8 @@ Range
 ---------------------
 
 Its the name for a column of elements in the table. We can name each column by:
-1. Selecting the whole column: ctrl + shift + <DOWN>. Then name the selection and enter.
+1. Selecting the whole column: ctrl + shift + <DOWN>. Then name the selection and 
+enter.
 2. for editing the ranges, go to Formulas, Defined names, Manage names.
 
 ---------------------
@@ -109,7 +110,7 @@ For inserting a table:
 3. The format is ready, the headers has filters.
 
 ---------------------
-Order
+Ordering Tables
 ---------------------
 
 1. Select the whole table.
@@ -126,7 +127,8 @@ Filters
 Buscar y reemplazar
 ---------------------
 
-1. ctrl + B. It will appear the search engine. type the value.
+1. ctrl + B. It will appear the search engine. Type the value.
 2. We can search every row that contains the value. we can play with its settings.
 
-3. For replace, go to replace task. then if we want to replace something then do it in this space.
+3. For replace, go to replace task. then if we want to replace something then do 
+it in this space.
